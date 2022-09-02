@@ -55,10 +55,10 @@ ${sayLove.content}\n`
   }
 
   // 添加一句一言
-  if (oneWord) {
-    text += `
-『一言』${oneWord.hitokoto}\n`
-  }
+  //if (oneWord) {
+   // text += `
+//『一言』${oneWord.hitokoto}\n`
+ // }
 
   // 每日英语
   if (dayEnglish) {
